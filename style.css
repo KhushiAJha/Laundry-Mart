@@ -20,7 +20,7 @@
         
         /* Header Styles */
         header {
-            background: linear-gradient(135deg, #3f054c, #0d0539);
+            background: linear-gradient(135deg, #ed11ab, #19c9ed);
             color: white;
             text-align: center;
             padding: 60px 0;
@@ -149,7 +149,7 @@
         }
         
         .book-now button {
-            background: #4a90e2;
+            background: #2eedf0;
             color: white;
             border: none;
             padding: 14px 20px;
@@ -161,7 +161,7 @@
         }
         
         .book-now button:hover {
-            background: #3a7bc8;
+            background: #2420e8;
         }
         
         /* Footer Styles */
